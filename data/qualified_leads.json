@@ -1,0 +1,1099 @@
+[
+  {
+    "name": "Drytac",
+    "website": "https://www.drytac.com",
+    "industry": "Architectural Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#263",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#892",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#374",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#108",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Bronze",
+        "years_member": 2,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Bronze",
+        "years_member": 15,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Bronze",
+        "years_member": 2,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$100M - $500M",
+    "employee_count": 3546,
+    "keywords": [
+      "high-performance materials",
+      "protective films",
+      "long-lasting signage",
+      "building graphics",
+      "UV protection",
+      "weather-resistant"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 10.0,
+    "overall_score": 10.0,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Architectural Graphics). Ideal company size ($100M - $500M, ~3546 employees). Uses relevant technologies/approaches (high-performance materials, protective films, long-lasting signage). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors ISA Sign Expo and Member of Specialty Graphic Imaging Association (SGIA)."
+  },
+  {
+    "name": "3M Commercial Graphics",
+    "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#584",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#609",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#928",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#771",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 9,
+        "committee_participation": true
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 11,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$10B+",
+    "employee_count": 17419,
+    "keywords": [
+      "outdoor signage",
+      "vehicle wraps",
+      "UV protection",
+      "durable graphics",
+      "graphics protection",
+      "long-lasting signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 10.0,
+    "overall_score": 10.0,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Signage and Graphics). Ideal company size ($10B+, ~17419 employees). Uses relevant technologies/approaches (outdoor signage, vehicle wraps, UV protection). Attends key events (ISA Sign Expo, PRINTING United Expo) and Sponsors FESPA Global Print Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Gold member."
+  },
+  {
+    "name": "Avery Dennison Graphics Solutions",
+    "website": "https://graphics.averydennison.com",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#831",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#384",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#398",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#147",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#589",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Platinum",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Platinum",
+        "years_member": 15,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10B+",
+    "employee_count": 32562,
+    "keywords": [
+      "graphics protection",
+      "building graphics",
+      "durable graphics",
+      "protective films",
+      "graphics protection",
+      "high-performance materials"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 10.0,
+    "overall_score": 10.0,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Signage and Graphics). Ideal company size ($10B+, ~32562 employees). Uses relevant technologies/approaches (graphics protection, building graphics, durable graphics). Attends key events (ISA Sign Expo, PRINTING United Expo) and Sponsors PRINTING United Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Platinum member."
+  },
+  {
+    "name": "HP Large Format Printing",
+    "website": "https://www.hp.com/us-en/large-format-printers",
+    "industry": "Large Format Printing",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#237",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#272",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#848",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10B+",
+    "employee_count": 17419,
+    "keywords": [
+      "outdoor signage",
+      "vehicle wraps",
+      "UV protection",
+      "durable graphics",
+      "graphics protection",
+      "long-lasting signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 10.0,
+    "overall_score": 10.0,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Large Format Printing). Ideal company size ($10B+, ~17419 employees). Uses relevant technologies/approaches (outdoor signage, vehicle wraps, UV protection). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors ISA Sign Expo and Member of International Sign Association (ISA)."
+  },
+  {
+    "name": "Fujifilm Graphic Systems",
+    "website": "https://www.fujifilm.com/us/en/business/graphic-arts",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#938",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#891",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#401",
+        "sponsorship": true
+      }
+    ],
+    "estimated_revenue": "$100M - $500M",
+    "employee_count": 3713,
+    "keywords": [
+      "graphics protection",
+      "durable graphics",
+      "building graphics",
+      "high-performance materials",
+      "outdoor signage",
+      "graphic design"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 9.0,
+    "overall_score": 9.8,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Graphic Arts). Ideal company size ($100M - $500M, ~3713 employees). Uses relevant technologies/approaches (graphics protection, durable graphics, building graphics). Attends key events (PRINTING United Expo, FESPA Global Print Expo) and Sponsors FESPA Global Print Expo."
+  },
+  {
+    "name": "Roland DGA",
+    "website": "https://www.rolanddga.com",
+    "industry": "Large Format Printing",
+    "events": [
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#282",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 5,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 15,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 13,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10B+",
+    "employee_count": 25238,
+    "keywords": [
+      "protective films",
+      "graphics protection",
+      "vehicle wraps",
+      "outdoor signage",
+      "building graphics",
+      "UV protection"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 10.0,
+    "engagement_score": 9.0,
+    "overall_score": 9.8,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Large Format Printing). Ideal company size ($10B+, ~25238 employees). Uses relevant technologies/approaches (protective films, graphics protection, vehicle wraps). Attends key events (SGIA Expo) and Sponsors SGIA Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Gold member."
+  },
+  {
+    "name": "Hexis Graphics",
+    "website": "https://www.hexis-graphics.com",
+    "industry": "Vehicle Wraps",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#664",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#156",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#512",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#868",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$50M - $100M",
+    "employee_count": 3534,
+    "keywords": [
+      "building graphics",
+      "graphics protection",
+      "UV protection",
+      "vehicle wraps",
+      "high-performance materials"
+    ],
+    "industry_score": 10.0,
+    "size_score": 8.77,
+    "keyword_score": 10.0,
+    "engagement_score": 10.0,
+    "overall_score": 9.69,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Vehicle Wraps). Suitable company size ($50M - $100M, ~3534 employees). Uses relevant technologies/approaches (building graphics, graphics protection, UV protection). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors ISA Sign Expo and Member of International Sign Association (ISA)."
+  },
+  {
+    "name": "Epson Professional Imaging",
+    "website": "https://epson.com/professional-imaging",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#859",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#506",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#951",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#504",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 15,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$10B+",
+    "employee_count": 49983,
+    "keywords": [
+      "graphic design",
+      "high-performance materials",
+      "weather-resistant",
+      "vehicle wraps",
+      "durable graphics",
+      "color management"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 9.6,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Graphic Arts). Ideal company size ($10B+, ~49983 employees). Uses relevant technologies/approaches (graphic design, high-performance materials, weather-resistant). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors ISA Sign Expo and Member of Printing Industries of America (PIA) and Printing Industries of America (PIA) Gold member."
+  },
+  {
+    "name": "LG Ad Solutions",
+    "website": "https://www.lgadsolutions.com",
+    "industry": "Outdoor Advertising",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#408",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#825",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#927",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#198",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 7,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$100M - $500M",
+    "employee_count": 1858,
+    "keywords": [
+      "high-performance materials",
+      "UV protection",
+      "graphics protection",
+      "long-lasting signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 9.6,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Outdoor Advertising). Ideal company size ($100M - $500M, ~1858 employees). Uses relevant technologies/approaches (high-performance materials, UV protection, graphics protection). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors SGIA Expo and Member of Specialty Graphic Imaging Association (SGIA)."
+  },
+  {
+    "name": "Mimaki",
+    "website": "https://www.mimaki.com",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#902",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#224",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#891",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#123",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Platinum",
+        "years_member": 6,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Platinum",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Platinum",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Platinum",
+        "years_member": 8,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$500M - $1B",
+    "employee_count": 38095,
+    "keywords": [
+      "graphics protection",
+      "building graphics",
+      "long-lasting signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 9.6,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Graphic Arts). Ideal company size ($500M - $1B, ~38095 employees). Uses relevant technologies/approaches (graphics protection, building graphics, long-lasting signage). Attends key events (PRINTING United Expo, FESPA Global Print Expo) and Sponsors PRINTING United Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Platinum member."
+  },
+  {
+    "name": "Graphic Solutions Group",
+    "website": "https://www.gogsg.com",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#656",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#534",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#807",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#791",
+        "sponsorship": true
+      }
+    ],
+    "estimated_revenue": "$100M - $500M",
+    "employee_count": 1469,
+    "keywords": [
+      "graphics protection",
+      "weather-resistant",
+      "building graphics",
+      "outdoor signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 10.0,
+    "keyword_score": 8.0,
+    "engagement_score": 9.0,
+    "overall_score": 9.4,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Signage and Graphics). Ideal company size ($100M - $500M, ~1469 employees). Uses relevant technologies/approaches (graphics protection, weather-resistant, building graphics). Attends key events (PRINTING United Expo, FESPA Global Print Expo) and Sponsors FESPA Global Print Expo."
+  },
+  {
+    "name": "FLEXcon",
+    "website": "https://www.flexcon.com",
+    "industry": "Architectural Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#834",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#206",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#488",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#894",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 8,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 1358,
+    "keywords": [
+      "UV protection",
+      "outdoor signage",
+      "durable graphics"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.64,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Architectural Graphics). Uses relevant technologies/approaches (UV protection, outdoor signage, durable graphics). Attends key events (ISA Sign Expo, PRINTING United Expo) and Sponsors PRINTING United Expo and Member of Printing Industries of America (PIA)."
+  },
+  {
+    "name": "Orafol",
+    "website": "https://www.orafol.com",
+    "industry": "Protective Films",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#750",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#922",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#261",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#268",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "FESPA",
+        "membership_level": "Bronze",
+        "years_member": 3,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Bronze",
+        "years_member": 3,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 3134,
+    "keywords": [
+      "protective films",
+      "long-lasting signage",
+      "vehicle wraps",
+      "UV protection"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.64,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Protective Films). Uses relevant technologies/approaches (protective films, long-lasting signage, vehicle wraps). Attends key events (ISA Sign Expo, PRINTING United Expo) and Sponsors PRINTING United Expo and Member of FESPA."
+  },
+  {
+    "name": "Mactac",
+    "website": "https://www.mactac.com",
+    "industry": "Fleet Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#845",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#242",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#631",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#180",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Bronze",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Bronze",
+        "years_member": 9,
+        "committee_participation": false
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 4124,
+    "keywords": [
+      "high-performance materials",
+      "outdoor signage",
+      "building graphics"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.64,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Fleet Graphics). Uses relevant technologies/approaches (high-performance materials, outdoor signage, building graphics). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors FESPA Global Print Expo and Member of International Sign Association (ISA)."
+  },
+  {
+    "name": "Arlon Graphics",
+    "website": "https://www.arlon.com",
+    "industry": "Vehicle Wraps",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#274",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#843",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#790",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 1,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 13,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 2557,
+    "keywords": [
+      "vehicle wraps",
+      "protective films",
+      "long-lasting signage"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 8.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.64,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Vehicle Wraps). Uses relevant technologies/approaches (vehicle wraps, protective films, long-lasting signage). Attends key events (PRINTING United Expo, FESPA Global Print Expo) and Sponsors FESPA Global Print Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Gold member."
+  },
+  {
+    "name": "Agfa Graphics",
+    "website": "https://www.agfa.com/printing",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#506",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#213",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#934",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 2,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 1,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 2350,
+    "keywords": [
+      "protective films",
+      "high-performance materials",
+      "color management"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 6.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.24,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Graphic Arts). Attends key events (ISA Sign Expo, FESPA Global Print Expo) and Sponsors ISA Sign Expo and Member of Specialty Graphic Imaging Association (SGIA) and Specialty Graphic Imaging Association (SGIA) Gold member."
+  },
+  {
+    "name": "Ritrama",
+    "website": "https://www.ritrama.com",
+    "industry": "Protective Films",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#956",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#842",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#318",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Silver",
+        "years_member": 8,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 6,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ],
+    "estimated_revenue": "$10M - $50M",
+    "employee_count": 1642,
+    "keywords": [
+      "UV protection",
+      "graphics protection",
+      "UV protection"
+    ],
+    "industry_score": 10.0,
+    "size_score": 6.16,
+    "keyword_score": 6.0,
+    "engagement_score": 10.0,
+    "overall_score": 8.24,
+    "is_qualified": true,
+    "qualification_rationale": "Strong industry alignment (Protective Films). Attends key events (PRINTING United Expo, FESPA Global Print Expo) and Sponsors FESPA Global Print Expo and Member of Specialty Graphic Imaging Association (SGIA)."
+  }
+]

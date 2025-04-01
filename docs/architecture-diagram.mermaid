@@ -1,0 +1,80 @@
+flowchart TD
+    subgraph "Data Sources"
+        EventData[Industry Events]
+        AssocData[Industry Associations]
+        WebData[Company Websites]
+        LinkedInData[LinkedIn Profiles]
+    end
+
+    subgraph "Data Collection Module"
+        EventScraper[Event Scraper]
+        AssocScraper[Association Scraper]
+        CompanyExtract[Company Extractor]
+    end
+
+    subgraph "Lead Qualification Module"
+        Enrichment[Company Enrichment]
+        ICPScoring[ICP Scoring]
+        LeadPrioritize[Lead Prioritization]
+    end
+
+    subgraph "Stakeholder Finder Module"
+        DMFinder[Decision-Maker Finder]
+        DMScore[Stakeholder Evaluation]
+        InterestDetect[Interest Detection]
+    end
+
+    subgraph "Personalization Engine"
+        MessageGen[Message Generator]
+        SubjectGen[Subject Line Generator]
+        ContextIncorp[Context Incorporation]
+    end
+
+    subgraph "Dashboard"
+        LeadViz[Lead Visualization]
+        LeadFilter[Lead Filtering]
+        OutreachUI[Outreach Interface]
+    end
+
+    subgraph "External Integrations"
+        LinkedInNav[LinkedIn Sales Navigator]
+        ClayAPI[Clay API]
+        EmailService[Email Service]
+        CRMAPI[CRM System]
+    end
+
+    EventData --> EventScraper
+    AssocData --> AssocScraper
+    WebData --> CompanyExtract
+    
+    EventScraper --> CompanyExtract
+    AssocScraper --> CompanyExtract
+    
+    CompanyExtract --> |companies.json| Enrichment
+    
+    Enrichment --> ICPScoring
+    ICPScoring --> LeadPrioritize
+    
+    LeadPrioritize --> |qualified_leads.json| DMFinder
+    
+    DMFinder --> DMScore
+    DMScore --> InterestDetect
+    
+    LinkedInData -.-> DMFinder
+    
+    InterestDetect --> |stakeholders.json| MessageGen
+    
+    MessageGen --> SubjectGen
+    MessageGen --> ContextIncorp
+    SubjectGen --> ContextIncorp
+    
+    ContextIncorp --> |leads_with_outreach.json| LeadViz
+    
+    LeadViz --> LeadFilter
+    LeadFilter --> OutreachUI
+    
+    LinkedInNav -.-> DMFinder
+    ClayAPI -.-> Enrichment
+    EmailService -.-> OutreachUI
+    CRMAPI -.-> LeadPrioritize
+    CRMAPI -.-> OutreachUI

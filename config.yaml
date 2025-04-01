@@ -1,0 +1,114 @@
+# DuPont Tedlar Lead Generation Configuration
+
+# API Keys (would be loaded from environment variables in production)
+api_keys:
+  openai: ${OPENAI_API_KEY}
+  linkedin_sales_navigator: ${LINKEDIN_API_KEY}  # Mock for prototype
+  clay: ${CLAY_API_KEY}  # Mock for prototype
+
+# Target industry events and associations for DuPont Tedlar
+target_events:
+  - name: "ISA Sign Expo"
+    url: "https://www.signexpo.org/"
+    date: "2025-04-23"
+    location: "Las Vegas, NV"
+    relevance_score: 9.8
+    
+  - name: "PRINTING United Expo"
+    url: "https://www.printingunited.com/"
+    date: "2025-10-18"
+    location: "Atlanta, GA"
+    relevance_score: 9.5
+    
+  - name: "FESPA Global Print Expo"
+    url: "https://www.fespa.com/en/events/2025/fespa-global-print-expo-2025"
+    date: "2025-05-14"
+    location: "Munich, Germany"
+    relevance_score: 9.2
+    
+  - name: "SGIA Expo"
+    url: "https://www.sgia.org/"
+    date: "2025-09-12"
+    location: "New Orleans, LA"
+    relevance_score: 8.9
+    
+  - name: "Graphics of the Americas"
+    url: "https://goaexpo.com/"
+    date: "2025-02-27"
+    location: "Miami, FL"
+    relevance_score: 8.5
+
+# Target associations
+target_associations:
+  - name: "Specialty Graphic Imaging Association (SGIA)"
+    url: "https://www.sgia.org/"
+    relevance_score: 9.7
+    
+  - name: "International Sign Association (ISA)"
+    url: "https://www.signs.org/"
+    relevance_score: 9.6
+    
+  - name: "Printing Industries of America (PIA)"
+    url: "https://www.printing.org/"
+    relevance_score: 8.8
+    
+  - name: "FESPA"
+    url: "https://www.fespa.com/"
+    relevance_score: 9.0
+    
+  - name: "Association of Plastic Film Manufacturers"
+    url: "https://www.plasticsfilms.org/"
+    relevance_score: 8.7
+
+# Ideal Customer Profile (ICP) criteria for DuPont Tedlar
+icp_criteria:
+  industries:
+    - "Signage and Graphics"
+    - "Large Format Printing"
+    - "Architectural Graphics"
+    - "Vehicle Wraps"
+    - "Fleet Graphics"
+    - "Outdoor Advertising"
+    - "Protective Films"
+    - "Graphic Arts"
+    
+  company_size:
+    min_employees: 200
+    preferred_employees: 1000
+    min_revenue_usd: 50000000  # $50M
+    preferred_revenue_usd: 100000000  # $100M+
+    
+  decision_makers:
+    titles:
+      - "VP of Product Development"
+      - "Director of Innovation"
+      - "Director of Procurement"
+      - "Chief Technology Officer"
+      - "Head of R&D"
+      - "Product Manager"
+      - "Purchasing Manager"
+      - "Technical Director"
+      
+  keywords:
+    - "durable graphics"
+    - "weather-resistant"
+    - "UV protection"
+    - "outdoor signage"
+    - "protective films"
+    - "vehicle wraps"
+    - "building graphics"
+    - "high-performance materials"
+    - "graphics protection"
+    - "long-lasting signage"
+
+# LLM configuration
+llm:
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 500
+
+# Data collection settings
+data_collection:
+  max_companies_per_event: 25
+  max_stakeholders_per_company: 3
+  verification_threshold: 0.7  # Confidence score for data verification

@@ -1,0 +1,835 @@
+[
+  {
+    "name": "Hexis Graphics",
+    "website": "https://www.hexis-graphics.com",
+    "industry": "Vehicle Wraps",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#664",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#156",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#512",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#868",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "FLEXcon",
+    "website": "https://www.flexcon.com",
+    "industry": "Architectural Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#834",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#206",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#488",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#894",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 8,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Agfa Graphics",
+    "website": "https://www.agfa.com/printing",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#506",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#213",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#934",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 2,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 1,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Orafol",
+    "website": "https://www.orafol.com",
+    "industry": "Protective Films",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#750",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#922",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#261",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#268",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "FESPA",
+        "membership_level": "Bronze",
+        "years_member": 3,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Bronze",
+        "years_member": 3,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "Epson Professional Imaging",
+    "website": "https://epson.com/professional-imaging",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#859",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#506",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#951",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#504",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 15,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "Drytac",
+    "website": "https://www.drytac.com",
+    "industry": "Architectural Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#263",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#892",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#374",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#108",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Bronze",
+        "years_member": 2,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Bronze",
+        "years_member": 15,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Bronze",
+        "years_member": 2,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "LG Ad Solutions",
+    "website": "https://www.lgadsolutions.com",
+    "industry": "Outdoor Advertising",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#408",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#825",
+        "sponsorship": false
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#927",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#198",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 7,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "3M Commercial Graphics",
+    "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#584",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#609",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#928",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#771",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 9,
+        "committee_participation": true
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 11,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 14,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "Avery Dennison Graphics Solutions",
+    "website": "https://graphics.averydennison.com",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#831",
+        "sponsorship": false
+      },
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#384",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#398",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#147",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#589",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Platinum",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Platinum",
+        "years_member": 15,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Mactac",
+    "website": "https://www.mactac.com",
+    "industry": "Fleet Graphics",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#845",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#242",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#631",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#180",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Bronze",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Bronze",
+        "years_member": 9,
+        "committee_participation": false
+      }
+    ]
+  },
+  {
+    "name": "HP Large Format Printing",
+    "website": "https://www.hp.com/us-en/large-format-printers",
+    "industry": "Large Format Printing",
+    "events": [
+      {
+        "event_name": "ISA Sign Expo",
+        "event_date": "2025-04-23",
+        "booth_number": "#237",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#272",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#848",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Ritrama",
+    "website": "https://www.ritrama.com",
+    "industry": "Protective Films",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#956",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#842",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#318",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Silver",
+        "years_member": 8,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Silver",
+        "years_member": 6,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Silver",
+        "years_member": 3,
+        "committee_participation": false
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Silver",
+        "years_member": 4,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Silver",
+        "years_member": 11,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Arlon Graphics",
+    "website": "https://www.arlon.com",
+    "industry": "Vehicle Wraps",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#274",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#843",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#790",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Gold",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 1,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 5,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 13,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Mimaki",
+    "website": "https://www.mimaki.com",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#902",
+        "sponsorship": true
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#224",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#891",
+        "sponsorship": false
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#123",
+        "sponsorship": false
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Platinum",
+        "years_member": 6,
+        "committee_participation": false
+      },
+      {
+        "association_name": "International Sign Association (ISA)",
+        "membership_level": "Platinum",
+        "years_member": 7,
+        "committee_participation": false
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Platinum",
+        "years_member": 9,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Platinum",
+        "years_member": 10,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Platinum",
+        "years_member": 8,
+        "committee_participation": true
+      }
+    ]
+  },
+  {
+    "name": "Graphic Solutions Group",
+    "website": "https://www.gogsg.com",
+    "industry": "Signage and Graphics",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#656",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#534",
+        "sponsorship": true
+      },
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#807",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#791",
+        "sponsorship": true
+      }
+    ]
+  },
+  {
+    "name": "Fujifilm Graphic Systems",
+    "website": "https://www.fujifilm.com/us/en/business/graphic-arts",
+    "industry": "Graphic Arts",
+    "events": [
+      {
+        "event_name": "PRINTING United Expo",
+        "event_date": "2025-10-18",
+        "booth_number": "#938",
+        "sponsorship": false
+      },
+      {
+        "event_name": "FESPA Global Print Expo",
+        "event_date": "2025-05-14",
+        "booth_number": "#891",
+        "sponsorship": true
+      },
+      {
+        "event_name": "Graphics of the Americas",
+        "event_date": "2025-02-27",
+        "booth_number": "#401",
+        "sponsorship": true
+      }
+    ]
+  },
+  {
+    "name": "Roland DGA",
+    "website": "https://www.rolanddga.com",
+    "industry": "Large Format Printing",
+    "events": [
+      {
+        "event_name": "SGIA Expo",
+        "event_date": "2025-09-12",
+        "booth_number": "#282",
+        "sponsorship": true
+      }
+    ],
+    "associations": [
+      {
+        "association_name": "Specialty Graphic Imaging Association (SGIA)",
+        "membership_level": "Gold",
+        "years_member": 5,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Printing Industries of America (PIA)",
+        "membership_level": "Gold",
+        "years_member": 3,
+        "committee_participation": true
+      },
+      {
+        "association_name": "FESPA",
+        "membership_level": "Gold",
+        "years_member": 15,
+        "committee_participation": true
+      },
+      {
+        "association_name": "Association of Plastic Film Manufacturers",
+        "membership_level": "Gold",
+        "years_member": 13,
+        "committee_participation": true
+      }
+    ]
+  }
+]

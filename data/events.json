@@ -1,0 +1,535 @@
+[
+  {
+    "name": "ISA Sign Expo",
+    "url": "https://www.signexpo.org/",
+    "date": "2025-04-23",
+    "location": "Las Vegas, NV",
+    "relevance_score": 9.8,
+    "exhibitors": [
+      {
+        "name": "Hexis Graphics",
+        "website": "https://www.hexis-graphics.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#664",
+        "years_attending": 4,
+        "has_sponsorship": true
+      },
+      {
+        "name": "FLEXcon",
+        "website": "https://www.flexcon.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#834",
+        "years_attending": 8,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Agfa Graphics",
+        "website": "https://www.agfa.com/printing",
+        "industry": "Graphic Arts",
+        "booth_number": "#506",
+        "years_attending": 3,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Orafol",
+        "website": "https://www.orafol.com",
+        "industry": "Protective Films",
+        "booth_number": "#750",
+        "years_attending": 3,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Epson Professional Imaging",
+        "website": "https://epson.com/professional-imaging",
+        "industry": "Graphic Arts",
+        "booth_number": "#859",
+        "years_attending": 1,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Drytac",
+        "website": "https://www.drytac.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#263",
+        "years_attending": 10,
+        "has_sponsorship": true
+      },
+      {
+        "name": "LG Ad Solutions",
+        "website": "https://www.lgadsolutions.com",
+        "industry": "Outdoor Advertising",
+        "booth_number": "#408",
+        "years_attending": 1,
+        "has_sponsorship": false
+      },
+      {
+        "name": "3M Commercial Graphics",
+        "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+        "industry": "Signage and Graphics",
+        "booth_number": "#584",
+        "years_attending": 10,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Avery Dennison Graphics Solutions",
+        "website": "https://graphics.averydennison.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#831",
+        "years_attending": 7,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Mactac",
+        "website": "https://www.mactac.com",
+        "industry": "Fleet Graphics",
+        "booth_number": "#845",
+        "years_attending": 10,
+        "has_sponsorship": false
+      },
+      {
+        "name": "HP Large Format Printing",
+        "website": "https://www.hp.com/us-en/large-format-printers",
+        "industry": "Large Format Printing",
+        "booth_number": "#237",
+        "years_attending": 6,
+        "has_sponsorship": true
+      }
+    ]
+  },
+  {
+    "name": "PRINTING United Expo",
+    "url": "https://www.printingunited.com/",
+    "date": "2025-10-18",
+    "location": "Atlanta, GA",
+    "relevance_score": 9.5,
+    "exhibitors": [
+      {
+        "name": "FLEXcon",
+        "website": "https://www.flexcon.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#206",
+        "years_attending": 8,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Orafol",
+        "website": "https://www.orafol.com",
+        "industry": "Protective Films",
+        "booth_number": "#922",
+        "years_attending": 6,
+        "has_sponsorship": true
+      },
+      {
+        "name": "3M Commercial Graphics",
+        "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+        "industry": "Signage and Graphics",
+        "booth_number": "#609",
+        "years_attending": 6,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Ritrama",
+        "website": "https://www.ritrama.com",
+        "industry": "Protective Films",
+        "booth_number": "#956",
+        "years_attending": 4,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Arlon Graphics",
+        "website": "https://www.arlon.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#274",
+        "years_attending": 4,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Mimaki",
+        "website": "https://www.mimaki.com",
+        "industry": "Graphic Arts",
+        "booth_number": "#902",
+        "years_attending": 7,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Graphic Solutions Group",
+        "website": "https://www.gogsg.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#656",
+        "years_attending": 7,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Avery Dennison Graphics Solutions",
+        "website": "https://graphics.averydennison.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#384",
+        "years_attending": 9,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Fujifilm Graphic Systems",
+        "website": "https://www.fujifilm.com/us/en/business/graphic-arts",
+        "industry": "Graphic Arts",
+        "booth_number": "#938",
+        "years_attending": 7,
+        "has_sponsorship": false
+      }
+    ]
+  },
+  {
+    "name": "FESPA Global Print Expo",
+    "url": "https://www.fespa.com/en/events/2025/fespa-global-print-expo-2025",
+    "date": "2025-05-14",
+    "location": "Munich, Germany",
+    "relevance_score": 9.2,
+    "exhibitors": [
+      {
+        "name": "FLEXcon",
+        "website": "https://www.flexcon.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#488",
+        "years_attending": 3,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Ritrama",
+        "website": "https://www.ritrama.com",
+        "industry": "Protective Films",
+        "booth_number": "#842",
+        "years_attending": 7,
+        "has_sponsorship": true
+      },
+      {
+        "name": "HP Large Format Printing",
+        "website": "https://www.hp.com/us-en/large-format-printers",
+        "industry": "Large Format Printing",
+        "booth_number": "#272",
+        "years_attending": 4,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Agfa Graphics",
+        "website": "https://www.agfa.com/printing",
+        "industry": "Graphic Arts",
+        "booth_number": "#213",
+        "years_attending": 3,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Drytac",
+        "website": "https://www.drytac.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#892",
+        "years_attending": 7,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Avery Dennison Graphics Solutions",
+        "website": "https://graphics.averydennison.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#398",
+        "years_attending": 4,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Arlon Graphics",
+        "website": "https://www.arlon.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#843",
+        "years_attending": 7,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Fujifilm Graphic Systems",
+        "website": "https://www.fujifilm.com/us/en/business/graphic-arts",
+        "industry": "Graphic Arts",
+        "booth_number": "#891",
+        "years_attending": 5,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Epson Professional Imaging",
+        "website": "https://epson.com/professional-imaging",
+        "industry": "Graphic Arts",
+        "booth_number": "#506",
+        "years_attending": 5,
+        "has_sponsorship": false
+      },
+      {
+        "name": "3M Commercial Graphics",
+        "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+        "industry": "Signage and Graphics",
+        "booth_number": "#928",
+        "years_attending": 1,
+        "has_sponsorship": true
+      },
+      {
+        "name": "LG Ad Solutions",
+        "website": "https://www.lgadsolutions.com",
+        "industry": "Outdoor Advertising",
+        "booth_number": "#825",
+        "years_attending": 1,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Hexis Graphics",
+        "website": "https://www.hexis-graphics.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#156",
+        "years_attending": 7,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Mactac",
+        "website": "https://www.mactac.com",
+        "industry": "Fleet Graphics",
+        "booth_number": "#242",
+        "years_attending": 1,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Graphic Solutions Group",
+        "website": "https://www.gogsg.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#534",
+        "years_attending": 2,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Mimaki",
+        "website": "https://www.mimaki.com",
+        "industry": "Graphic Arts",
+        "booth_number": "#224",
+        "years_attending": 10,
+        "has_sponsorship": true
+      }
+    ]
+  },
+  {
+    "name": "SGIA Expo",
+    "url": "https://www.sgia.org/",
+    "date": "2025-09-12",
+    "location": "New Orleans, LA",
+    "relevance_score": 8.9,
+    "exhibitors": [
+      {
+        "name": "3M Commercial Graphics",
+        "website": "https://www.3m.com/3M/en_US/graphics-signage-us",
+        "industry": "Signage and Graphics",
+        "booth_number": "#771",
+        "years_attending": 6,
+        "has_sponsorship": true
+      },
+      {
+        "name": "FLEXcon",
+        "website": "https://www.flexcon.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#894",
+        "years_attending": 1,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Mimaki",
+        "website": "https://www.mimaki.com",
+        "industry": "Graphic Arts",
+        "booth_number": "#891",
+        "years_attending": 5,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Avery Dennison Graphics Solutions",
+        "website": "https://graphics.averydennison.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#147",
+        "years_attending": 8,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Epson Professional Imaging",
+        "website": "https://epson.com/professional-imaging",
+        "industry": "Graphic Arts",
+        "booth_number": "#951",
+        "years_attending": 9,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Hexis Graphics",
+        "website": "https://www.hexis-graphics.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#512",
+        "years_attending": 3,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Drytac",
+        "website": "https://www.drytac.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#374",
+        "years_attending": 10,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Ritrama",
+        "website": "https://www.ritrama.com",
+        "industry": "Protective Films",
+        "booth_number": "#318",
+        "years_attending": 9,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Graphic Solutions Group",
+        "website": "https://www.gogsg.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#807",
+        "years_attending": 7,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Mactac",
+        "website": "https://www.mactac.com",
+        "industry": "Fleet Graphics",
+        "booth_number": "#631",
+        "years_attending": 3,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Orafol",
+        "website": "https://www.orafol.com",
+        "industry": "Protective Films",
+        "booth_number": "#261",
+        "years_attending": 6,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Roland DGA",
+        "website": "https://www.rolanddga.com",
+        "industry": "Large Format Printing",
+        "booth_number": "#282",
+        "years_attending": 5,
+        "has_sponsorship": true
+      },
+      {
+        "name": "LG Ad Solutions",
+        "website": "https://www.lgadsolutions.com",
+        "industry": "Outdoor Advertising",
+        "booth_number": "#927",
+        "years_attending": 3,
+        "has_sponsorship": true
+      }
+    ]
+  },
+  {
+    "name": "Graphics of the Americas",
+    "url": "https://goaexpo.com/",
+    "date": "2025-02-27",
+    "location": "Miami, FL",
+    "relevance_score": 8.5,
+    "exhibitors": [
+      {
+        "name": "Hexis Graphics",
+        "website": "https://www.hexis-graphics.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#868",
+        "years_attending": 2,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Drytac",
+        "website": "https://www.drytac.com",
+        "industry": "Architectural Graphics",
+        "booth_number": "#108",
+        "years_attending": 9,
+        "has_sponsorship": true
+      },
+      {
+        "name": "LG Ad Solutions",
+        "website": "https://www.lgadsolutions.com",
+        "industry": "Outdoor Advertising",
+        "booth_number": "#198",
+        "years_attending": 8,
+        "has_sponsorship": false
+      },
+      {
+        "name": "HP Large Format Printing",
+        "website": "https://www.hp.com/us-en/large-format-printers",
+        "industry": "Large Format Printing",
+        "booth_number": "#848",
+        "years_attending": 1,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Graphic Solutions Group",
+        "website": "https://www.gogsg.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#791",
+        "years_attending": 8,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Mimaki",
+        "website": "https://www.mimaki.com",
+        "industry": "Graphic Arts",
+        "booth_number": "#123",
+        "years_attending": 4,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Mactac",
+        "website": "https://www.mactac.com",
+        "industry": "Fleet Graphics",
+        "booth_number": "#180",
+        "years_attending": 3,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Orafol",
+        "website": "https://www.orafol.com",
+        "industry": "Protective Films",
+        "booth_number": "#268",
+        "years_attending": 10,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Avery Dennison Graphics Solutions",
+        "website": "https://graphics.averydennison.com",
+        "industry": "Signage and Graphics",
+        "booth_number": "#589",
+        "years_attending": 6,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Fujifilm Graphic Systems",
+        "website": "https://www.fujifilm.com/us/en/business/graphic-arts",
+        "industry": "Graphic Arts",
+        "booth_number": "#401",
+        "years_attending": 3,
+        "has_sponsorship": true
+      },
+      {
+        "name": "Arlon Graphics",
+        "website": "https://www.arlon.com",
+        "industry": "Vehicle Wraps",
+        "booth_number": "#790",
+        "years_attending": 3,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Agfa Graphics",
+        "website": "https://www.agfa.com/printing",
+        "industry": "Graphic Arts",
+        "booth_number": "#934",
+        "years_attending": 8,
+        "has_sponsorship": false
+      },
+      {
+        "name": "Epson Professional Imaging",
+        "website": "https://epson.com/professional-imaging",
+        "industry": "Graphic Arts",
+        "booth_number": "#504",
+        "years_attending": 10,
+        "has_sponsorship": false
+      }
+    ]
+  }
+]
